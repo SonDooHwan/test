@@ -41,4 +41,4 @@ asdf
 
 ---
 foot note writing.
-[\^ myfootnote]
+[\^myfootnote]
