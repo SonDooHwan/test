@@ -12,11 +12,12 @@ when 'git status', green file name means these are comitted
 
 해당 저장소의 master 브랜치로 push한다
 
-*markdown grammar exercise
+* markdown grammar exercise
 
-\'
+
+\' 
 print()
-'\
+'\ 
 
 
    test code
