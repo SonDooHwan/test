@@ -21,8 +21,8 @@ print()
 
 
    test code
-| first Header | Second Header | Third Header|
-| First row | Data | Very long data enrty |
+| first Header | Second Header | Third Header         |
+| First row    | Data          | Very long data enrty |
 
 
 ''' 
