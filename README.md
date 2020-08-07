@@ -15,12 +15,6 @@ when 'git status', green file name means these are comitted
 * markdown grammar exercise
 
 
-\' 
-print()
-'\ 
-
-
-   test code
 | first Header | Second Header | Third Header         |
 | First row    | Data          | Very long data enrty |
 
