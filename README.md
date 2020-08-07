@@ -23,7 +23,7 @@ when 'git status', green file name means these are comitted
 | Second row    | **Cell**      | *Cell*               |
 | Third row     | Cell that spans across two columns  ||
 
-!(markdown_logo)(https://raw.github.com/dcurtis/markdown-mark/master/png/208x128.png)
+![markdown_logo](https://raw.github.com/dcurtis/markdown-mark/master/png/208x128.png)
 
 ''' 
 int val = 10;
@@ -40,4 +40,4 @@ asdf
 \*\*\*
 
 ---
-!(markdown_logo)(https://raw.github.com/dcurtis/markdown-mark/master/png/208x128.png)
+![markdown_logo](https://raw.github.com/dcurtis/markdown-mark/master/png/208x128.png)
