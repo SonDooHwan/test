@@ -11,3 +11,29 @@ when 'git status', green file name means these are comitted
 * git push origin master
 
 해당 저장소의 master 브랜치로 push한다
+
+*markdown grammar exercise
+
+\'
+print()
+'\
+
+
+   test code
+
+
+''' 
+int val = 10;
+printf(%s,"Hello, World!");
+'''
+
+\* italic \*
+\*\*  Bold \*\*
+
+asdf
+\_\_\_
+
+asdf
+\*\*\*
+
+---
