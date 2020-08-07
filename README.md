@@ -42,4 +42,4 @@ asdf
 
 ---
 foot note writing.
-fedsrgsdfgsdfgsd[\^myfootnote]
+fedsrgsdfgsdfgsd[\^myfootnote]:dfsdfsdfsdf
