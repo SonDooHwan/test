@@ -41,4 +41,5 @@ asdf
 
 ---
 ![markdown_logo](https://raw.github.com/dcurtis/markdown-mark/master/png/208x128.png)
-foot note writing.[^myfootnote]
+foot note writing.
+[\^ myfootnote]
