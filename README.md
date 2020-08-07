@@ -21,7 +21,7 @@ when 'git status', green file name means these are comitted
 | First row    | Data          | Very long data enrty |
 | Second row            | **Cell**      | *Cell*              |
 | Second row    | **Cell**      | *Cell*               |
-| Third row     | Cell that spans across two columns  |
+| Third row     | Cell that spans across two columns  ||
 
 ''' 
 int val = 10;
