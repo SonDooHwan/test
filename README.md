@@ -1,4 +1,5 @@
-# test
+#
+test
 Git test
 
 This text is written in the windows 10 of DH son on 20200717
@@ -16,6 +17,7 @@ when 'git status', green file name means these are comitted
 
 
 | first Header | Second Header | Third Header         |
+| :----------- | :-----------: | :-------------------:|
 | First row    | Data          | Very long data enrty |
 
 
